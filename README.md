@@ -4,4 +4,4 @@ I'm a Frontend Developer focused on building polished web applications with Reac
 
 I care about thoughtful UI, performance, accessibility, and maintainable code — and I enjoy digging into how the tools I use actually work, from framework behavior and rendering to caching and state management.
 
-[Portfolio](https://mahmoudelagamy.site) · [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mahmoudelagamy/))
+[Portfolio](https://mahmoudelagamy.site) · [LinkedIn](https://www.linkedin.com/in/mahmoudelagamy/)
